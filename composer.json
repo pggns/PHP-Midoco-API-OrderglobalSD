@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pggns\\MidocoApi\\OrderglobalSD\\": "src"
+            "Pggns\\MidocoApi\\OrderglobalSD\\": "./src/"
         }
     },
     "type": "library",
